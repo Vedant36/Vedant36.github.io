@@ -1,0 +1,14 @@
+/* min-height: 100%; */
+body {
+  background: linear-gradient(0deg, #292e42, #1a1b26);
+  color: #acb0d0;
+  /* font-family: 'Iosevka Web'; */
+  font-size: 32;
+  text-align: center;
+}
+h1 { color: #c0caf5 }
+a:visited { color: #ad8ee6 }
+a:link { color: #7aa2f7 }
+a:focus { color: #f7768e }
+
+marquee { color: #9ece6a }
