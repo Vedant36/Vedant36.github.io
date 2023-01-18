@@ -1,9 +1,13 @@
-/* min-height: 100%; */
+
 body {
-  background: linear-gradient(0deg, #292e42, #1a1b26);
-  color: #acb0d0;
-  /* font-family: 'Iosevka Web'; */
-  text-align: center;
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background: radial-gradient(#292e42, #1a1b26);
+    color: #acb0d0;
+    font-family: 'Iosevka Web';
+    text-align: center;
 }
 h1 { color: #c0caf5 }
 a:visited { color: #ad8ee6 }

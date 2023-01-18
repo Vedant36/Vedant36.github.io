@@ -1,0 +1,58 @@
+#+options: toc:nil
+* Dried Fruit Thing
+
+#+CAPTION: The Dried Fruit Thing
+#+attr_html: :width 50%
+[[./dft.jpg]]
+
+This fruit is the latest invention of science. It can be used to very accurately measure everything you would ever need to.
+
+** Length
+
+This one is the easiest. Just count the number of times the Dried Fruit Thing goins into the object you're trying to measure.
+
+Just measure it again and again and take the average if you want to be more accurate.
+
+** Time
+
+Step 1: Go to a high cliff and drop the Dried Fruit Thing from above when you want to start measuring.
+
+Step 2: Mark where it was when you want to stop.
+
+Step 3: Measure distance using The Dried Fruit Thing
+
+Step 4: Calculate the time of fall using Einstein's theory of gravity (You want to be accurate don't you?).
+
+** Mass
+
+Step 1: Keep the object you want to measure the mass of on the floor (if one exists nearby, else just place it on yourself).
+
+Step 2: Throw the Dried Fruit Thing at the object horizontally with an accurately measured velocity (how?).
+
+Step 3: Measure the final velocity of the object (ignore friction).
+
+Step 4: Use Feynman diagrams to calculate the mass of the object.
+
+
+** Mole
+
+I don't get the point of this one. Just grow up and count the atoms.
+
+** Kelvin
+
+Another easy one. Just use you homemade energy to mass converter, measure the mass as shown above, and hence calculate the energy of the system.
+
+** Ampere
+
+Same as Mole. Just count the electrons.
+
+** Candela
+
+Irrelevant
+
+** Other uses
+
+- It feels nice in the hand.
+- Terrorize neighbors with your accurate measurements.
+- Free blog entry
+- and many other features to be discovered!
